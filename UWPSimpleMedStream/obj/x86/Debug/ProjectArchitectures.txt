@@ -1,0 +1,1 @@
+C:\Users\diego\documents\visual studio 2017\Projects\UWPSimpleMedStream\UWPSimpleMedStream\UWPSimpleMedStream.csproj;x86
